@@ -33,4 +33,24 @@
   - 61% of internet traffic was from mobile, and increasing
   - Existing stores save recently purchased items, one of the first things you see
     - Maybe restrict certain items from being displayed, to prevent another target fiasco
-  - 
+
+
+---
+### Project Responsibilites
+- Theo
+  - Template for all pages immediately after class
+  - Concept for meal based front page
+  - Presentation opening research
+- Chaintanya
+  - Login/Signup, Products
+  - Product page will be for a whole meal item
+  - Knowns
+- Souyma
+  - best selling items in the categories/items
+  - make google presentation, create slack group
+- Akansha
+  - Items within an indicidual category (vegetables)
+  - unkowns
+- Travis
+  - Front page of virtual store interface
+  - Presentation: identify the population and devices (1)
