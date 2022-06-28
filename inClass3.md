@@ -1,4 +1,11 @@
 ## InClass 3
+
+Group 2
+Theo Rowlett
+Akansha Jain
+Chaitanya Boyapti
+Souyma Thoutam
+Travis McGowan
 ---
 - Design/brainstorm the web front for a grocery store.
 - Order from home, food is delivered
