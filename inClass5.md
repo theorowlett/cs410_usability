@@ -1,4 +1,6 @@
 ## Group 2
+- Theo Rowlett
+- 
 ## In Class Interviewing Activity
 ---
 ## Questions
@@ -25,4 +27,17 @@
 7. What categories do you find the most important in applicants? 
 8. What do you want to know about applicants that no else is providing?
 9. Thank you.
-
+---
+## Notes/Discussion/Feedback
+- For users, did not address concerns of fake recruiters
+- Question about what categories employers found the most important
+- Introduction is important, report building makes conversation/interview
+- Better cooldown, give indications that the interview is coming to a close.
+- Question needs clarification for whether company or job description is important
+- Not enough quantitiative data gathered
+- No behavioral/or hypothetical questions asked.
+- Feedback was not requested. Ask interviewee if they have questions.
+- What went well in the interview:
+  - Follow up questions
+  - Asking questions to clarify
+  - Overall successful interviews from both perspectives
