@@ -1,9 +1,9 @@
 ## Roles
-- Leadership - Akansha
-- Writing - Theo
-- User Communication - Soymia
-- Visual Design - Chaitanya
-- General - Travis
+- Leadership - Akansha Jain
+- Writing - Theo Rowlett
+- User Communication - Soumya Thoutam
+- Visual Design - Chaitanya Boyapati
+- General/Flex - Travis McGowan
 
 ## Ideas
 ---
@@ -36,20 +36,29 @@ Our solution adds value to users on both sides of the negotiating table, and we'
 
 ---
 ## Predispositions
-- What you know
+- What we know
   - Target users (Job seekers and employers)
     - Unemployed persons
     - Students
     - career change persons
+    - Recruiters/Companies Hiring
   - Certifications/Quizzes matching profiles and roles
   - Platform provides quizzes/certifications
   - Location data
   - Job description
   - User Profile
+    - Expected salary
+    - open applications
+    - application statuses
+    - User activity/status
+    - Followed profiles/companies
   - User connections
   - Direct contact available within network
     - Inbox
     - Direct Messaging
+  - Job Applications
+    - Recruters know how many applied
+    - Recruiters know who top applicants are
 - What you don't know
   - What breadth of quizzes will be offered
   - whether users will be technical/non-technical
