@@ -1,6 +1,11 @@
 ## Group 2
+## In Class 5
 - Theo Rowlett
-- 
+- Akansha Jain
+- Chaitanya Boyapati
+- Souyama Thoutam
+- Travis McGowan
+---
 ## In Class Interviewing Activity
 ---
 ## Questions
